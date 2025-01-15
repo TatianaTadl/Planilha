@@ -23,13 +23,22 @@ ChatGPT：
 A tabela contém dados de transações financeiras com as seguintes colunas principais:
 
 Data: Data da transação.
+
 Mês: Mês da transação.
+
 Tipo: Tipo de transação (ENTRADA ou SAÍDA).
+
 Categoria: Categoria da despesa ou receita.
+
 Descrição: Detalhamento da transação.
+
 Valor: Valor da transação.
+
 Operação bancária: Tipo de operação bancária utilizada.
+
 Status: Status do pagamento (Recebido, Pago, Pendente, etc.).
+
+
 Agora, vou gerar alguns insights com base nessa tabela, como total de entradas e saídas, categorias de maior gasto, entre outros. ​​
 
 Aqui estão alguns insights baseados na análise dos dados fornecidos:
