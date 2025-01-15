@@ -20,6 +20,7 @@ ChatGPT：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT:
+
 A tabela contém dados de transações financeiras com as seguintes colunas principais:
 
 Data: Data da transação.
@@ -40,7 +41,10 @@ Status: Status do pagamento (Recebido, Pago, Pendente, etc.).
 
 
 
+
 Agora, vou gerar alguns insights com base nessa tabela, como total de entradas e saídas, categorias de maior gasto, entre outros. ​​
+
+
 
 Aqui estão alguns insights baseados na análise dos dados fornecidos:
 
@@ -63,6 +67,7 @@ Saúde: R$ 2.000
 Vestuário: R$ 1.800
 
 
+
 Métodos de operação bancária mais usados:
 
 Transferência: 18 transações
@@ -70,6 +75,7 @@ Transferência: 18 transações
 Débito Automático: 13 transações
 
 Cartão de Crédito: 13 transações
+
 
 
 Status dos pagamentos:
