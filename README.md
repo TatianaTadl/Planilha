@@ -39,6 +39,7 @@ Operação bancária: Tipo de operação bancária utilizada.
 Status: Status do pagamento (Recebido, Pago, Pendente, etc.).
 
 
+
 Agora, vou gerar alguns insights com base nessa tabela, como total de entradas e saídas, categorias de maior gasto, entre outros. ​​
 
 Aqui estão alguns insights baseados na análise dos dados fornecidos:
@@ -52,18 +53,30 @@ Saldo final (Entradas - Saídas): R$ 25.383
 Categorias com maiores gastos:
 
 Eletrônicos: R$ 5.100
+
 Alimentação: R$ 3.800
+
 Utilidades Domésticas: R$ 2.250
+
 Saúde: R$ 2.000
+
 Vestuário: R$ 1.800
+
+
 Métodos de operação bancária mais usados:
 
 Transferência: 18 transações
+
 Débito Automático: 13 transações
+
 Cartão de Crédito: 13 transações
+
+
 Status dos pagamentos:
 
 Pendente: 19 transações
+
 Pago: 19 transações
+
 Recebido: 6 transações
   
